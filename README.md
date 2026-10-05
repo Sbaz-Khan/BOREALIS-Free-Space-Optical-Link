@@ -1,4 +1,4 @@
-# BOREALIS - Free-Space Optical Data Link with Autonomous Tracking
+# BOREALIS - Free-Space Optical Data Link with Autonomous Tracking 
 
 BOREALIS is an ongoing senior Electrical and Computer Engineering capstone project at Concordia University focused on developing a free-space optical communication system capable of transmitting image data through a laser link while autonomously acquiring and tracking a moving transmitter.
 
